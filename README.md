@@ -3,7 +3,7 @@
 <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/56295773/7484e149-a7da-4906-8cfb-4eaf8a1adc95/Screenshot-78.jpg" alt="n8n Workflow Screenshot" width="400"/> </div>
 
 <p align="center">
-  <img src="https://Screenshot(78).png" width="720"/>
+  <img src="https://Screenshot (78).png" width="720"/>
 </p>
 
 🦄 Why?
