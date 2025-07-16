@@ -1,5 +1,11 @@
 
-<div align="center"> <img src="https://n8n.io/images/n8n-logo.png" alt="n8n logo" width="120"/> <h1>🚀 Zero Recruitment Anxiety: Automated Job Alerts via Telegram & n8n 🤖</h1> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram icon" width="38"/> <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/56295773/7484e149-a7da-4906-8cfb-4eaf8a1adc95/Screenshot-78.jpg" alt="n8n Workflow Screenshot" width="400"/> </div>
+<div align="center"> <img src="https://n8n.io/images/n8n-logo.png" alt="n8n logo" width="120"/> <h1>🚀 Zero Recruitment Anxiety: Automated Job Alerts via Telegram & n8n 🤖</h1> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram icon" width="38"/> 
+<img src="https://pplx-res.cloudinary.com/image/private/user_uploads/56295773/7484e149-a7da-4906-8cfb-4eaf8a1adc95/Screenshot-78.jpg" alt="n8n Workflow Screenshot" width="400"/> </div>
+
+<p align="center">
+  <img src="https://screenshot(78).png" width="720"/>
+</p>
+
 🦄 Why?
 Do you ever wish your future just DMed you with internship offers instead of you refreshing job boards?
 Well, now it does.
